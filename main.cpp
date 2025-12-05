@@ -3,7 +3,7 @@
 using namespace std;
 
 void greet() {
-    cout << "Welcome to Git version control!" << endl;
+    cout << "Welcome to Git! Remote modification" << endl;
 }
 
 bool login(string username, string password) {
